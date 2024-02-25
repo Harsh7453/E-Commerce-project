@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Open+Sans:wght@300;500&family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+header {
+    height: 54px;
+    background-color: white;
+    display: flex;
+}
+
+.head img {
+    margin: -20px;
+    margin-left: 25px;
+    margin-right: 20px
+}
+
+.search {
+    font-family: 'Open Sans', sans-serif;
+    height: 35px;
+    width: 597.5px;
+    border-radius: 9px;
+    border: none;
+    background-color: rgb(227, 244, 248);
+    margin: 10px;
+}
+
+.user {
+    color: black;
+    margin-left: 40px;
+}
+
+.cart {
+    color: black;
+    margin-left: 50px;
+}
+
+.store {
+    color: black;
+    margin-left: 70px;
+}
+
+main {
+    background-color: aliceblue;
+    min-height: calc(100vh - 54px - 12vh);
+}
+
+.maintop {
+    height: 80px;
+    background-color: white;
+    margin: 10px;
+}
+
+.maintop-items {
+    display: flex;
+    justify-content: space-between;
+    height: 95px;
+    margin: 2px 15px 1px 20px;
+}
+
+.maintop-items img {
+    height: 60px;
+}
+
+.firstimage {
+    margin: 8px 40px 0px 50px;
+}
+
+h2 {
+    margin: 27px;
+}
+
+.mainbottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards {
+    margin: auto;
+    border: 0.5px solid gray;
+    border-radius: 2px;
+}
+
+.cards img {
+    height: 200px;
+    width: 200px;
+}
+
+.firstimage img {
+    height: 400px;
+    width: 1350px;
+}
+
+.down {
+    width: 45%;
+    display: flex;
+    justify-content: flex-start;
+    margin: 29px;
+}
+
+.c-1 {
+    margin: 10px;
+    height: 266px;
+    width: 200px;
+}
+
+.c-2 {
+    margin: 10px;
+    height: 266px;
+    width: 200px;
+}
+
+.bestsellingphone {
+    margin: 84px;
+    height: 515px;
+    width: 870px;
+    margin-top: 10px;
+}
+
+footer {
+    height: 100vh;
+    background-color: rgb(233, 230, 197);
+    color: grey;
+}
+
+.footertext {
+    margin: 35px;
+}

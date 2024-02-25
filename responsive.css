@@ -1,0 +1,201 @@
+@media screen and (max-width: 1024px) {
+    .head a .store {
+        display: none;
+    }
+
+    .search {
+        width: 30vh;
+    }
+
+    .firstimage img {
+        height: 300px;
+        width: 720px;
+    }
+
+    .bestsellingphone {
+        height: 400px;
+        width: 450px;
+    }
+
+    header {
+        height: 80px;
+    }
+}
+
+@media (765px <=width <=980px) {
+    .cP-1 {
+        display: none;
+    }
+
+    .bestsellingphone {
+        width: 250px;
+    }
+
+    .btm-1 {
+        display: none;
+    }
+
+    .mhb-1 {
+        display: none;
+    }
+
+    .trv-1 {
+        display: none;
+    }
+
+    .search {
+        width: 25vh;
+    }
+}
+
+@media(300px < width < 765px) {
+    .head img {
+        width: 130px;
+        margin-top: 10px;
+        margin-left: -25px;
+    }
+
+    .head {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .search {
+        width: 20vh;
+        margin-top: 0;
+        margin-left: 8rem;
+    }
+
+    .head a .user {
+        display: none;
+    }
+
+    .head a .cart {
+        margin: 0;
+    }
+
+    .firstimage img {
+        width: 300px;
+    }
+
+    .btm-1 {
+        display: none;
+    }
+
+    .trv-1 {
+        display: none;
+    }
+
+    .h-f {
+        display: none;
+    }
+
+    .cP-1 {
+        display: none;
+    }
+
+    .mhb-1 {
+        display: none;
+    }
+
+    .cycle {
+        display: none;
+    }
+
+    .bestsellingphone {
+        display: none;
+    }
+
+    .down {
+        flex-direction: column;
+        margin: 50px;
+    }
+
+    .apl {
+        display: none;
+    }
+
+    .el {
+        display: none;
+    }
+}
+
+@media(width <=300px) {
+    .mainbottom {
+        flex-direction: column;
+    }
+
+    .head img {
+        width: 130px;
+        margin-top: 10px;
+        margin-left: -25px;
+    }
+
+    .head {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .search {
+        width: 20vh;
+        margin-top: 0;
+        margin-left: 8rem;
+    }
+
+    .head a .user {
+        display: none;
+    }
+
+    .head a .cart {
+        margin: 0;
+    }
+
+    .firstimage img {
+        width: 200px;
+    }
+
+    .btm-1 {
+        display: none;
+    }
+
+    .trv-1 {
+        display: none;
+    }
+
+    .h-f {
+        display: none;
+    }
+
+    .cP-1 {
+        display: none;
+    }
+
+    .mhb-1 {
+        display: none;
+    }
+
+    .cycle {
+        display: none;
+    }
+
+    .bestsellingphone {
+        display: none;
+    }
+
+    .down {
+        flex-direction: column;
+        margin: 50px;
+    }
+
+    .apl {
+        display: none;
+    }
+
+    .el {
+        display: none;
+    }
+
+    .head a .cart {
+        display: none;
+    }
+}
